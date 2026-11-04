@@ -153,6 +153,6 @@ return {
         { path = "unstuck.lua", hash = "f0806b67", size = 12576 },
         { path = "util.lua", hash = "bef7f10a", size = 11974 },
         { path = "vendor.lua", hash = "e0330558", size = 17261 },
-        { path = "version.lua", hash = "bc46ddde", size = 9942 },
+        { path = "version.lua", hash = "5615dde2", size = 9942 },
     },
 }
